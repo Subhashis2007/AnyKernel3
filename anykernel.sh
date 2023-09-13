@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Smooth
+kernel.string=Smooth Kernel by Riveeks-Smooth 
 do.devicecheck=1
 do.modules=0
 do.systemless=1
