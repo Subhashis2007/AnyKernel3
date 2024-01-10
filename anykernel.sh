@@ -52,4 +52,3 @@ split_boot;
 override_cmdline;
 flash_boot;
 ## end vendor_kernel_boot install
-
